@@ -8,7 +8,7 @@
     "test": "test"
   },
   "dependencies": {
-    "commander": "^8.0.0",
+    "commander": "^9.4.0",
     "mocha": "^9.0.2",
     "ramda": "^0.27.1",
     "should": "^13.2.3",
@@ -24,7 +24,7 @@
     "接口文档",
     "codegen"
   ],
-  "bin":{
+  "bin": {
     "swagger-codegen-common": "./bin/index.js"
   },
   "repository": {
